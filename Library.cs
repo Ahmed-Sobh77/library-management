@@ -74,22 +74,20 @@ namespace Checkpoint1_library_
             }
             return null;
         }
-        public void borrow(string id,Member m)
+        public void borrow(string id, Member m)
         {
             if (m == null)
-            {
                 throw new ArgumentNullException(nameof(m), "Member cannot be null.");
-            }
+
             LibraryItem item = getLibraryItem(id);
-            if (item != null && item.availableStatus)
-            {
-                item.availableStatus = false;
-                m.updateBorrowedItems(item);
-            }
-            else
-            {
+            if (item == null)
+                throw new KeyNotFoundException($"No item found with ID {id}.");
+
+            if (!item.availableStatus)
                 throw new InvalidOperationException("Item is not available for borrowing.");
-            }
+
+            item.availableStatus = false;
+            m.updateBorrowedItems(item);
         }
         public void returnBook(string id,Member m)
         {
