@@ -1,4 +1,4 @@
-LibraryItems:
-Book B001 The Great Gatsby False
-Members:
+LibraryItems
+Book B001 The Great Gatsby False F. Scott Fitzgerald
+Members
 Member M001 John Doe

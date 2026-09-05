@@ -14,10 +14,8 @@ namespace Checkpoint1_library_
         }
         public void load(string[] arr)
         {
-            id= arr[1];
-            title= arr[2];
-            availableStatus=bool.Parse(arr[3]);
-            issue= arr[4];
+           base.load(arr);
+            issue = arr[4];
         }
         public override string ToString()
         {
