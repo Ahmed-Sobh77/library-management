@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "D:\\projects insha allah\\Checkpoint1(library)\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{6F58C559-4690-BF16-01CD-94D4FD81F080}|Checkpoint1(library).csproj|d:\\projects insha allah\\checkpoint1(library)\\libraryitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F58C559-4690-BF16-01CD-94D4FD81F080}|Checkpoint1(library).csproj|solutionrelative:libraryitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{6F58C559-4690-BF16-01CD-94D4FD81F080}|Checkpoint1(library).csproj|d:\\projects insha allah\\checkpoint1(library)\\library.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6F58C559-4690-BF16-01CD-94D4FD81F080}|Checkpoint1(library).csproj|solutionrelative:library.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -19,10 +23,6 @@
       "RelativeMoniker": "D:0:0:{6F58C559-4690-BF16-01CD-94D4FD81F080}|Checkpoint1(library).csproj|solutionrelative:book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6F58C559-4690-BF16-01CD-94D4FD81F080}|Checkpoint1(library).csproj|d:\\projects insha allah\\checkpoint1(library)\\libraryitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6F58C559-4690-BF16-01CD-94D4FD81F080}|Checkpoint1(library).csproj|solutionrelative:libraryitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{6F58C559-4690-BF16-01CD-94D4FD81F080}|Checkpoint1(library).csproj|d:\\projects insha allah\\checkpoint1(library)\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6F58C559-4690-BF16-01CD-94D4FD81F080}|Checkpoint1(library).csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -34,7 +34,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -46,7 +46,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Library.cs",
               "DocumentMoniker": "D:\\projects insha allah\\Checkpoint1(library)\\Library.cs",
               "RelativeDocumentMoniker": "Library.cs",
@@ -59,7 +59,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Member.cs",
               "DocumentMoniker": "D:\\projects insha allah\\Checkpoint1(library)\\Member.cs",
               "RelativeDocumentMoniker": "Member.cs",
@@ -71,7 +71,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Magazine.cs",
               "DocumentMoniker": "D:\\projects insha allah\\Checkpoint1(library)\\Magazine.cs",
               "RelativeDocumentMoniker": "Magazine.cs",
@@ -83,7 +83,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Book.cs",
               "DocumentMoniker": "D:\\projects insha allah\\Checkpoint1(library)\\Book.cs",
               "RelativeDocumentMoniker": "Book.cs",
@@ -95,15 +95,16 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
               "Title": "LibraryItem.cs",
               "DocumentMoniker": "D:\\projects insha allah\\Checkpoint1(library)\\LibraryItem.cs",
               "RelativeDocumentMoniker": "LibraryItem.cs",
               "ToolTip": "D:\\projects insha allah\\Checkpoint1(library)\\LibraryItem.cs",
               "RelativeToolTip": "LibraryItem.cs",
-              "ViewState": "AgIAAAoAAACALjMzMzMLwAQAAAAeAAAAAAAAAA==",
+              "ViewState": "AgIAAAoAAACALjMzMzMLwBYAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-03T13:25:07.221Z"
+              "WhenOpened": "2026-09-03T13:25:07.221Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",

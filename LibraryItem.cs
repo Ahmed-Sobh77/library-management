@@ -20,7 +20,7 @@ namespace Checkpoint1_library_
             availableStatus = true; // Default to available when created
         }
         public override string ToString() => $"{id} {title} {availableStatus}";
-        public void load(string []arr)
+        public virtual void load(string []arr)
         {
             id = arr[1];
             title = arr[2];

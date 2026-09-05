@@ -3,32 +3,28 @@
   "WorkspaceRootPath": "D:\\projects insha allah\\Checkpoint1(library)\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\projects insha allah\\Checkpoint1(library)\\Checkpoint1(library).csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Checkpoint1(library).csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+      "AbsoluteMoniker": "D:0:0:{6F58C559-4690-BF16-01CD-94D4FD81F080}|Checkpoint1(library).csproj|d:\\projects insha allah\\checkpoint1(library)\\library.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F58C559-4690-BF16-01CD-94D4FD81F080}|Checkpoint1(library).csproj|solutionrelative:library.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\projects insha allah\\Checkpoint1(library)\\Book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6F58C559-4690-BF16-01CD-94D4FD81F080}|Checkpoint1(library).csproj|d:\\projects insha allah\\checkpoint1(library)\\member.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F58C559-4690-BF16-01CD-94D4FD81F080}|Checkpoint1(library).csproj|solutionrelative:member.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\projects insha allah\\Checkpoint1(library)\\Magazine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Magazine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6F58C559-4690-BF16-01CD-94D4FD81F080}|Checkpoint1(library).csproj|d:\\projects insha allah\\checkpoint1(library)\\magazine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F58C559-4690-BF16-01CD-94D4FD81F080}|Checkpoint1(library).csproj|solutionrelative:magazine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\projects insha allah\\Checkpoint1(library)\\LibraryItem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:LibraryItem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6F58C559-4690-BF16-01CD-94D4FD81F080}|Checkpoint1(library).csproj|d:\\projects insha allah\\checkpoint1(library)\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F58C559-4690-BF16-01CD-94D4FD81F080}|Checkpoint1(library).csproj|solutionrelative:book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\projects insha allah\\Checkpoint1(library)\\Library.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Library.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6F58C559-4690-BF16-01CD-94D4FD81F080}|Checkpoint1(library).csproj|d:\\projects insha allah\\checkpoint1(library)\\libraryitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F58C559-4690-BF16-01CD-94D4FD81F080}|Checkpoint1(library).csproj|solutionrelative:libraryitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\projects insha allah\\Checkpoint1(library)\\Member.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Member.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\projects insha allah\\Checkpoint1(library)\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6F58C559-4690-BF16-01CD-94D4FD81F080}|Checkpoint1(library).csproj|d:\\projects insha allah\\checkpoint1(library)\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F58C559-4690-BF16-01CD-94D4FD81F080}|Checkpoint1(library).csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -51,19 +47,6 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Checkpoint1(library).csproj",
-              "DocumentMoniker": "D:\\projects insha allah\\Checkpoint1(library)\\Checkpoint1(library).csproj",
-              "RelativeDocumentMoniker": "Checkpoint1(library).csproj",
-              "ToolTip": "D:\\projects insha allah\\Checkpoint1(library)\\Checkpoint1(library).csproj",
-              "RelativeToolTip": "Checkpoint1(library).csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-09-05T12:59:25.461Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
               "Title": "Library.cs",
               "DocumentMoniker": "D:\\projects insha allah\\Checkpoint1(library)\\Library.cs",
               "RelativeDocumentMoniker": "Library.cs",
@@ -71,11 +54,12 @@
               "RelativeToolTip": "Library.cs",
               "ViewState": "AgIAAFkAAADgZmZmZmYmwGkAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-03T13:57:29.27Z"
+              "WhenOpened": "2026-09-03T13:57:29.27Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 1,
               "Title": "Member.cs",
               "DocumentMoniker": "D:\\projects insha allah\\Checkpoint1(library)\\Member.cs",
               "RelativeDocumentMoniker": "Member.cs",
@@ -95,12 +79,11 @@
               "RelativeToolTip": "Magazine.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-03T13:32:08.317Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-09-03T13:32:08.317Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Book.cs",
               "DocumentMoniker": "D:\\projects insha allah\\Checkpoint1(library)\\Book.cs",
               "RelativeDocumentMoniker": "Book.cs",
@@ -108,12 +91,11 @@
               "RelativeToolTip": "Book.cs",
               "ViewState": "AgIAAAsAAAAAAAAAAAAowA4AAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-03T13:27:01.18Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-09-03T13:27:01.18Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "LibraryItem.cs",
               "DocumentMoniker": "D:\\projects insha allah\\Checkpoint1(library)\\LibraryItem.cs",
               "RelativeDocumentMoniker": "LibraryItem.cs",
@@ -121,12 +103,11 @@
               "RelativeToolTip": "LibraryItem.cs",
               "ViewState": "AgIAAAoAAACALjMzMzMLwAQAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-03T13:25:07.221Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-09-03T13:25:07.221Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 5,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\projects insha allah\\Checkpoint1(library)\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
