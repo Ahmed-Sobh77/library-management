@@ -1,0 +1,15 @@
+D:\Checkpoint1(library)\bin\Debug\net10.0\Checkpoint1(library).exe
+D:\Checkpoint1(library)\bin\Debug\net10.0\Checkpoint1(library).deps.json
+D:\Checkpoint1(library)\bin\Debug\net10.0\Checkpoint1(library).runtimeconfig.json
+D:\Checkpoint1(library)\bin\Debug\net10.0\Checkpoint1(library).dll
+D:\Checkpoint1(library)\bin\Debug\net10.0\Checkpoint1(library).pdb
+D:\Checkpoint1(library)\obj\Debug\net10.0\Checkpoint1(library).GeneratedMSBuildEditorConfig.editorconfig
+D:\Checkpoint1(library)\obj\Debug\net10.0\Checkpoint1(library).AssemblyInfoInputs.cache
+D:\Checkpoint1(library)\obj\Debug\net10.0\Checkpoint1(library).AssemblyInfo.cs
+D:\Checkpoint1(library)\obj\Debug\net10.0\Checkpoint1(library).csproj.CoreCompileInputs.cache
+D:\Checkpoint1(library)\obj\Debug\net10.0\Checkpoint1(library).sourcelink.json
+D:\Checkpoint1(library)\obj\Debug\net10.0\Checkpoint1(library).dll
+D:\Checkpoint1(library)\obj\Debug\net10.0\refint\Checkpoint1(library).dll
+D:\Checkpoint1(library)\obj\Debug\net10.0\Checkpoint1(library).pdb
+D:\Checkpoint1(library)\obj\Debug\net10.0\Checkpoint1(library).genruntimeconfig.cache
+D:\Checkpoint1(library)\obj\Debug\net10.0\ref\Checkpoint1(library).dll

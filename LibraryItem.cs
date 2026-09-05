@@ -4,11 +4,18 @@ using System.Text;
 
 namespace Checkpoint1_library_
 {
-    internal interface LibraryItem
+    internal abstract class LibraryItem
     {
-        string id { get; }
-        string title { get; }
-        bool availableStatus { get; set; }
-        
+        public string id { get; protected set; }
+        public string title { get; protected set; }
+        public bool availableStatus { get; set; }
+
+        protected LibraryItem(string id, string title)
+        {
+            this.id = id;
+            this.title = title;
+            availableStatus = true; // Default to available when created
+        }
+        public override string ToString() => $"{id} {title} {availableStatus}";
     }
 }

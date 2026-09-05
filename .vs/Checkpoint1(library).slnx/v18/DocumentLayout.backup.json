@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "D:\\Checkpoint1(library)\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{6F58C559-4690-BF16-01CD-94D4FD81F080}|Checkpoint1(library).csproj|d:\\checkpoint1(library)\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F58C559-4690-BF16-01CD-94D4FD81F080}|Checkpoint1(library).csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{6F58C559-4690-BF16-01CD-94D4FD81F080}|Checkpoint1(library).csproj|d:\\checkpoint1(library)\\library.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6F58C559-4690-BF16-01CD-94D4FD81F080}|Checkpoint1(library).csproj|solutionrelative:library.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -11,20 +15,16 @@
       "RelativeMoniker": "D:0:0:{6F58C559-4690-BF16-01CD-94D4FD81F080}|Checkpoint1(library).csproj|solutionrelative:libraryitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6F58C559-4690-BF16-01CD-94D4FD81F080}|Checkpoint1(library).csproj|d:\\checkpoint1(library)\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6F58C559-4690-BF16-01CD-94D4FD81F080}|Checkpoint1(library).csproj|solutionrelative:book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6F58C559-4690-BF16-01CD-94D4FD81F080}|Checkpoint1(library).csproj|d:\\checkpoint1(library)\\member.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F58C559-4690-BF16-01CD-94D4FD81F080}|Checkpoint1(library).csproj|solutionrelative:member.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6F58C559-4690-BF16-01CD-94D4FD81F080}|Checkpoint1(library).csproj|d:\\checkpoint1(library)\\magazine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6F58C559-4690-BF16-01CD-94D4FD81F080}|Checkpoint1(library).csproj|solutionrelative:magazine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6F58C559-4690-BF16-01CD-94D4FD81F080}|Checkpoint1(library).csproj|d:\\checkpoint1(library)\\member.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6F58C559-4690-BF16-01CD-94D4FD81F080}|Checkpoint1(library).csproj|solutionrelative:member.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6F58C559-4690-BF16-01CD-94D4FD81F080}|Checkpoint1(library).csproj|d:\\checkpoint1(library)\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6F58C559-4690-BF16-01CD-94D4FD81F080}|Checkpoint1(library).csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6F58C559-4690-BF16-01CD-94D4FD81F080}|Checkpoint1(library).csproj|d:\\checkpoint1(library)\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F58C559-4690-BF16-01CD-94D4FD81F080}|Checkpoint1(library).csproj|solutionrelative:book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,7 +34,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Bookmark",
@@ -45,25 +45,21 @@
               "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{c6f34f0d-7ae5-4f3a-be61-fe0c21ae9eb8}"
-            },
-            {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Library.cs",
               "DocumentMoniker": "D:\\Checkpoint1(library)\\Library.cs",
               "RelativeDocumentMoniker": "Library.cs",
               "ToolTip": "D:\\Checkpoint1(library)\\Library.cs",
               "RelativeToolTip": "Library.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFwAAAAlAAAAAAAAAA==",
+              "ViewState": "AgIAAHoAAAAAAAAAAADgv4MAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-09-03T13:57:29.27Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "Member.cs",
               "DocumentMoniker": "D:\\Checkpoint1(library)\\Member.cs",
               "RelativeDocumentMoniker": "Member.cs",
@@ -71,57 +67,54 @@
               "RelativeToolTip": "Member.cs",
               "ViewState": "AgIAAAUAAAAAy8zMzMwqwBsAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-03T13:33:08.848Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-09-03T13:33:08.848Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Magazine.cs",
               "DocumentMoniker": "D:\\Checkpoint1(library)\\Magazine.cs",
               "RelativeDocumentMoniker": "Magazine.cs",
               "ToolTip": "D:\\Checkpoint1(library)\\Magazine.cs",
               "RelativeToolTip": "Magazine.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAdAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-03T13:32:08.317Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-09-03T13:32:08.317Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "Book.cs",
               "DocumentMoniker": "D:\\Checkpoint1(library)\\Book.cs",
               "RelativeDocumentMoniker": "Book.cs",
               "ToolTip": "D:\\Checkpoint1(library)\\Book.cs",
               "RelativeToolTip": "Book.cs",
-              "ViewState": "AgIAAAMAAABwy8zMzMwwwAwAAAAZAAAAAAAAAA==",
+              "ViewState": "AgIAAAcAAACAxczMzMwUwA0AAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-03T13:27:01.18Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-09-03T13:27:01.18Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "LibraryItem.cs",
               "DocumentMoniker": "D:\\Checkpoint1(library)\\LibraryItem.cs",
               "RelativeDocumentMoniker": "LibraryItem.cs",
               "ToolTip": "D:\\Checkpoint1(library)\\LibraryItem.cs",
               "RelativeToolTip": "LibraryItem.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAcAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-09-03T13:25:07.221Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Checkpoint1(library)\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "D:\\Checkpoint1(library)\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA7AAAAAAAAAA==",
+              "ToolTip": "D:\\Checkpoint1(library)\\Program.cs*",
+              "RelativeToolTip": "Program.cs*",
+              "ViewState": "AgIAAAAAAABUKzMzMzMLwA0AAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-09-03T13:19:13.747Z",
               "EditorCaption": ""

@@ -5,7 +5,14 @@
         static void Main(string[] args)
         {
             Library library = new Library();
-            library.loadData();
+            try
+            {
+                library.loadData();
+            }
+            catch (Exception ex)
+            {
+               
+            }
             LibraryItem book1 = new Book("B001", "The Great Gatsby", true);
             try
             {

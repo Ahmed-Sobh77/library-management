@@ -16,10 +16,11 @@ namespace Checkpoint1_library_
         public void addLibraryItem(LibraryItem item)
         {
             if (item == null)
-            {
                 throw new ArgumentNullException(nameof(item), "item cannot be null.");
-            }
-            if (!libraryItems.Contains(item)) 
+
+            if (getLibraryItem(item.id) != null)
+                throw new InvalidOperationException($"An item with ID {item.id} already exists.");
+
             libraryItems.Add(item);
         }
         public void addMember(Member member)
@@ -113,14 +114,14 @@ namespace Checkpoint1_library_
         }
          public void saveLibraryData()
         {
-            using (var sw=new StreamWriter("database"))
+            using (var sw=new StreamWriter("database.txt"))
             {
-                sw.WriteLine("LibraryItems:");
+                sw.WriteLine("LibraryItems");
                 foreach(LibraryItem li in libraryItems)
                 {
                     sw.WriteLine(li.ToString());
                 }
-                sw.WriteLine("Members:");
+                sw.WriteLine("Members");
                 foreach (Member me in members)
                 {
                     sw.WriteLine(me.ToString());
@@ -129,7 +130,7 @@ namespace Checkpoint1_library_
         }
         public void loadData()
         {
-            using (var sr = new StreamReader("database"))
+            using (var sr = new StreamReader("database.txt"))
             {
                 string ?line;
                 bool items = false;

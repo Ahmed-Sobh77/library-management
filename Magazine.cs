@@ -7,15 +7,10 @@ namespace Checkpoint1_library_
     internal class Magazine : LibraryItem
     {
        
-        public string id { get; private set; }
-        public string title { get; private set; }
-        public bool availableStatus { get; set; }
-        public Magazine() { }
-        public Magazine(string id, string title, bool availableStatus)
+  
+        public Magazine():base("", "") { }
+        public Magazine(string id, string title):base(id, title)
         {
-            this.id = id;
-            this.title = title;
-            this.availableStatus = availableStatus;
         }
         public void load(string[] arr)
         {
@@ -25,8 +20,7 @@ namespace Checkpoint1_library_
         }
         public override string ToString()
         {
-            return "Magazine" + " " + id + " " + title + " " + availableStatus;
-
+            return "Magazine" + " " + base.ToString();
         }
 
     }

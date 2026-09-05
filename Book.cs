@@ -6,17 +6,9 @@ namespace Checkpoint1_library_
 {
     internal class Book : LibraryItem
     {
-        public string id { get; private set; }
-   
-    public string title { get; private set; }
-    public bool availableStatus { get; set; }
-        public Book() { }
-    public Book( string id, string title, bool availableStatus)
-    {
-        this.id = id;
-        this.title = title;
-        this.availableStatus = availableStatus;
-    }
+        public Book():base("", "") { }
+        public Book(string id,string title):base(id, title) { }
+    
         public void load(string[] arr)
         {
             id = arr[1];
@@ -25,7 +17,7 @@ namespace Checkpoint1_library_
         }
         public override string ToString()
         {
-            return "Book"+" "+id+" "+title+" "+availableStatus;
+            return "Book" + " " + base.ToString();
         }
 
 }

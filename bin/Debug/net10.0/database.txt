@@ -1,0 +1,4 @@
+LibraryItems:
+Book B001 The Great Gatsby False
+Members:
+Member M001 John Doe
