@@ -139,9 +139,12 @@ namespace Checkpoint1_library_
                     if (line== "LibraryItems")
                     {
                         items= true;
-                    }else if(line== "Members")
+                        continue;
+                    }
+                    else if(line== "Members")
                     {
                         items=false;
+                        continue;
                     }
                     string[] arr = line.Split(' ');
                     if (items)

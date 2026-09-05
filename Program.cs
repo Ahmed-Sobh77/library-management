@@ -13,7 +13,7 @@
             {
                
             }
-            LibraryItem book1 = new Book("B001", "The Great Gatsby", true);
+            LibraryItem book1 = new Book("B001", "The Great Gatsby", "F. Scott Fitzgerald");
             try
             {
                 library.addLibraryItem(book1);
