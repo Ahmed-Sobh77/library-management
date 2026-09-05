@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Checkpoint1(library)\\Checkpoint1(library).csproj",
+      "projectUniqueName": "D:\\projects insha allah\\Checkpoint1(library)\\Checkpoint1(library).csproj",
       "projectName": "Checkpoint1(library)",
-      "projectPath": "D:\\Checkpoint1(library)\\Checkpoint1(library).csproj",
+      "projectPath": "D:\\projects insha allah\\Checkpoint1(library)\\Checkpoint1(library).csproj",
       "packagesPath": "C:\\Users\\albaseet\\.nuget\\packages\\",
-      "outputPath": "D:\\Checkpoint1(library)\\obj\\",
+      "outputPath": "D:\\projects insha allah\\Checkpoint1(library)\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

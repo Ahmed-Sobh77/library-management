@@ -12,7 +12,7 @@ namespace Checkpoint1_library_
             this.author = author;
         }
     
-        public void load(string[] arr)
+        public override void load(string[] arr)
         {
             base.load(arr);
             author = arr[4];

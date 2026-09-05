@@ -12,7 +12,7 @@ namespace Checkpoint1_library_
         {
             this.issue = issue;
         }
-        public void load(string[] arr)
+        public override void load(string[] arr)
         {
            base.load(arr);
             issue = arr[4];
