@@ -89,28 +89,22 @@ namespace Checkpoint1_library_
             item.availableStatus = false;
             m.updateBorrowedItems(item);
         }
-        public void returnBook(string id,Member m)
+        public void returnBook(string id, Member m)
         {
             if (m == null)
-            {
                 throw new ArgumentNullException(nameof(m), "Member cannot be null.");
-            }
+
             LibraryItem item = getLibraryItem(id);
             if (item == null)
-            {
-                throw new ArgumentNullException( "this item not from here.");
-            }
-            if (!item.availableStatus)
-            {
-                item.availableStatus = true;
-                m.removeBorrowedItems(item);
-            }
-            else
-            {
+                throw new KeyNotFoundException($"No item found with ID {id}.");
+
+            if (item.availableStatus)
                 throw new InvalidOperationException("Item is already here.");
-            }
+
+            item.availableStatus = true;
+            m.removeBorrowedItems(item);
         }
-         public void saveLibraryData()
+        public void saveLibraryData()
         {
             using (var sw=new StreamWriter("database.txt"))
             {
